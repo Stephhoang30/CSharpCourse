@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\obj\Debug\net8.0\CSharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\obj\Debug\net8.0\CSharpCourse.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\obj\Debug\net8.0\CSharpCourse.AssemblyInfo.cs
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\obj\Debug\net8.0\CSharpCourse.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\obj\Debug\net8.0\CSharpCourse.sourcelink.json
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\bin\Debug\net8.0\CSharpCourse.exe
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\bin\Debug\net8.0\CSharpCourse.deps.json
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\bin\Debug\net8.0\CSharpCourse.runtimeconfig.json
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\bin\Debug\net8.0\CSharpCourse.dll
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\bin\Debug\net8.0\CSharpCourse.pdb
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\obj\Debug\net8.0\CSharpCourse.dll
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\obj\Debug\net8.0\refint\CSharpCourse.dll
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\obj\Debug\net8.0\CSharpCourse.pdb
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\obj\Debug\net8.0\CSharpCourse.genruntimeconfig.cache
+\\Mac\Home\Documents\FALL24\PRN212\CSharpCourse\CSharpCourse\obj\Debug\net8.0\ref\CSharpCourse.dll
